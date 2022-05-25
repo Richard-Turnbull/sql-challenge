@@ -9,8 +9,8 @@ Tasks inlcuded:
 * Create SQL queries to analyze the data
 
 Please refer to:
-* 'ERD.png'
-* 'Table Schemata.sql'
-* 'Queries.sql'
+* ERD.png
+* Table Schemata.sql
+* Queries.sql
 
 The CSV files are saved in 'data' folder.
