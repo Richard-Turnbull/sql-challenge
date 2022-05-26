@@ -1,6 +1,6 @@
 # SQL-challenge
 
-This repository contains a SQL Challenge including Data Modelling, Data Engineering and Data Analysis.
+This repository contains a SQL Challenge including data modelling, data engineering and data analysis.
 
 Tasks inlcuded:
 * Inspect six CSV files and create an Entity Relationship Diagram (ERD)
@@ -13,4 +13,4 @@ Please refer to:
 * Table Schemata.sql
 * Queries.sql
 
-The CSV files are saved in 'data' folder.
+The CSV files are saved in the 'data' folder.
